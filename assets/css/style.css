@@ -1,0 +1,39 @@
+body{
+	background-image: url("../img/cookiemonster.png");
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	height: 1000px;
+	cursor: url("../img/glove.png"), pointer;
+	}
+
+h1{
+	color: brown;
+	text-align: center;
+	font-family: OCR A Std, monospace;
+	font-size: 50px;
+}
+
+div{
+	color: #ac850a;
+	font-size: 50px;
+
+}
+
+button{
+	background: -webkit-linear-gradient(top,#fc6132 0%,#fcee2f 50%,#f7d565 52%,#f5f900 100%);
+	font-family: American Typewriter, serif;
+	font-size: 20px;
+	cursor: url("../img/coins.png"), pointer;
+
+}
+
+.buttons{
+	display: flex;
+	width:450px;
+	height:50px;
+
+}
+p{
+	cursor: url("../img/gingerbread.png"), pointer;
+}
