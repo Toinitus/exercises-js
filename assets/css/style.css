@@ -1,0 +1,24 @@
+body{
+	background-image: url("../img/cookiemonster.png");
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	}
+
+h1{
+	color: brown;
+	text-align: center;
+	font-family: OCR A Std, monospace;
+	font-size: 50px;
+}
+
+div{
+	color: yellow;
+	font-size: 50px;
+
+}
+
+.buttons{
+	display: flex;
+	flex-direction: 
+}
