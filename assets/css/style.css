@@ -3,6 +3,8 @@ body{
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	height: 1000px;
+	cursor: url("../img/glove.png"), pointer;
 	}
 
 h1{
@@ -13,12 +15,25 @@ h1{
 }
 
 div{
-	color: yellow;
+	color: #ac850a;
 	font-size: 50px;
+
+}
+
+button{
+	background: -webkit-linear-gradient(top,#fc6132 0%,#fcee2f 50%,#f7d565 52%,#f5f900 100%);
+	font-family: American Typewriter, serif;
+	font-size: 20px;
+	cursor: url("../img/coins.png"), pointer;
 
 }
 
 .buttons{
 	display: flex;
-	flex-direction: 
+	width:450px;
+	height:50px;
+
+}
+p{
+	cursor: url("../img/gingerbread.png"), pointer;
 }
