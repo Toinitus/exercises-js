@@ -1,3 +1,3 @@
 # JS Cookie Clicker
 
-_par Antoine_
+_par Antoine Gozard_
